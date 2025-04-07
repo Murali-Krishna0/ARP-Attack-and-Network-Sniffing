@@ -70,6 +70,8 @@ Invoke the wireshark and examine the various menus  and controls of the tool:
 Ettercap supports active and passive dissection of many protocols (even encrypted ones) and includes many feature for network and host analysis. Ettercap can be used as sniffing tool as illustrated below:#
 
 ## OUTPUT:
+![430839219-481ca386-be94-49bd-b58f-f75ee570f4d5](https://github.com/user-attachments/assets/b3497dea-1d73-4d74-8bed-da4cfa74b860)
+
 
 
 
